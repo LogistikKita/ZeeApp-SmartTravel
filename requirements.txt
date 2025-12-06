@@ -1,0 +1,5 @@
+streamlit
+replicate
+exa-py
+pyngrok
+python-dotenv
